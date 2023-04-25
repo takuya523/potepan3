@@ -1,0 +1,27 @@
+#container {
+  display: inline-block;
+}
+
+#result {
+  height: 24px;
+  width: 115px;
+  border: solid 1px gray;
+  color: white;
+  background-color: black;
+  text-align: right;
+}
+
+table {
+  table-layout: fixed;
+}
+
+td {
+  width: 24px;
+  height: 24px;
+}
+
+input {
+  width: 100%;
+  height: 100%;
+}
+
